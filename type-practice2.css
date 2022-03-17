@@ -1,0 +1,29 @@
+html { background: #111; }
+body { 
+    background: #ddd;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    }
+
+h1 { 
+   font-family: 'Be Vietnam Pro', sans-serif; font-weight: 600; font-size: 40px;
+	
+ }
+
+h2 { 
+font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+h3 { 
+font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+p {
+	font-family: 'Anaheim', sans-serif; line-height: 1.5; letter-spacing: .5px;
+}
+
+li {
+	font-family: 'Anaheim', sans-serif; line-height: 1.5; letter-spacing: .5px;
+}
